@@ -16,21 +16,6 @@ This project leverages **Long Short-Term Memory (LSTM)** networks to predict foo
 - **Matplotlib & Seaborn** (for data visualization)
 - **Scikit-learn** (for data preprocessing)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/food-delivery-time-prediction.git
-   cd food-delivery-time-prediction
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the model training script:
-   ```bash
-   python train.py
-   ```
-
 ## Dataset
 The dataset contains:
 - **Order Time**
